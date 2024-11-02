@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://tsf-notes-server-66zib15ph-tsf-solutions-projects.vercel.app/?vercelToolbarCode=Ghp7e3EKYWC3vDr'
